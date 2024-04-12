@@ -64,6 +64,18 @@ _One 2022 – 2024 as-is dataset_ & _One 2022 – 2024 forecasted dataset._
 The application of this code could be utilized in making investment related decisions. This code does not take into account investor risk aversion, but instead underlines the conceptual understanding of global outlier events and graphically evaluates how the market fluctuated and further what could be forecasted.
 
 
+***MISC NOTES***
+
+_Programming Language Used: Python._
+
+_Packages Used: Anaconda, Matplotlib, Pandas, PyPlot, SciPy, and Numpy._
+
+_Tools Used: Jupyter Notebook (IPython)._
+
+_Credit & Contributors: ballen614, Ozkazanc1991, 2Hail, and sharmasonu2081._
+
+
+
 
 
 
