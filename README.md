@@ -1,5 +1,7 @@
 # Project-1 Stock Market Analysis and Trends.
 
+# Download the PPTX to view the PPTX.
+
 ***SUMMARY:***
 In this project, we will be analyzing trends that take place on the NASDAQ over a 5 year time-period. We will be looking at data from 2019 - 2024.
 
