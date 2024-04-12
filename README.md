@@ -58,7 +58,8 @@ _One 2020 – 2022 as-is dataset_ & _One 2020 – 2022 forecasted dataset._
 
 _One 2022 – 2024 as-is dataset_ & _One 2022 – 2024 forecasted dataset._
 
-
+***APPLICATION:***
+The application of this code could be utilized in making investment related decisions. This code does not take into account investor risk aversion, but instead underlines the conceptual understanding of global outlier events and graphically evaluates how the market fluctuated and further what could be forecasted.
 
 
 
