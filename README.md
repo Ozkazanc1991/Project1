@@ -62,7 +62,9 @@ _One 2022 – 2024 as-is dataset_ & _One 2022 – 2024 forecasted dataset._
 
 ***APPLICATION:***
 The application of this code could be utilized in making investment related decisions. This code does not take into account investor risk aversion, but instead underlines the conceptual understanding of global outlier events and graphically evaluates how the market fluctuated and further what could be forecasted.
-Conceptual Example: Recently, in light of events in the Middle East, the NASDAQ dropped around 600 points over the weekend. (April 13-15).
+
+
+***Conceptual Example:*** Recently, in light of events in the Middle East, the NASDAQ dropped around 600 points over the weekend. (April 13-15).
 
 
 ***MISC NOTES***
