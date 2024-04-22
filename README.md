@@ -65,7 +65,8 @@ The application of this code could be utilized in making investment related deci
 
 ***Conceptual Example:*** Recently, in light of events in the Middle East, the NASDAQ dropped around 600 points over the weekend. (April 13-15).
 
-***RESEARCH QUESTIONS***
+
+#***RESEARCH QUESTIONS***
 
 ***Historical Impact Analysis:***
 
