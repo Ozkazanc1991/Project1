@@ -1,6 +1,6 @@
 # Project-1 Stock Market Analysis and Trends.
 
-# Download the PDF to view the PDF.
+# Download the PDF to view the report slides.
 
 ***SUMMARY (Mete):***
 In this project, we will be analyzing trends that take place on the NASDAQ over a 5 year time-period. We will be looking at data from 2019 - 2024.
