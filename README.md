@@ -96,7 +96,7 @@ How have advancements in AI, becoming more prominent around 2023, influenced mar
 Based on past market responses to geopolitical events and economic policies, what predictive models can be developed to anticipate future market reactions?
 Considering the ongoing effects of interest rate policies and geopolitical stability as observed in 2024, how can investors prepare for potential market shifts?
 
-***MISC NOTES***
+***MISC NOTES:***
 
 _Programming Language Used: Python._
 
