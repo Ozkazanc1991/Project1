@@ -9,7 +9,7 @@ In this project, we will be analyzing trends that take place on the NASDAQ over 
 The objective of this project is to define and understand the changes taking place over a 5 year time-period to better educate investors on unusual fluctuations in the market due to events that could be considered "outliers", and how one could best-prepare for an outlier event.
 
 ***OUR DATASET (Ryan):***
-In our NDX.CSV, we pulled information from "Go-Charting". (HyperLink This)
+In our NDX.CSV, we pulled information from "Go-Charting".
 
 ***ISSUES WITH OUR DATASET (Ryan):***
 We do not believe the to be any descrepancies with our dataset, however, we do note that the NYSE has the hours of 9:30AM - 4:00PM, Monday - Friday and is not open certain days of the calendar year due to holidays. Therefore, any calculations predicting or forecasting may be slightly misconstrued due to the inability of the software understanding which days of the calendar year are United States national holidays; when the NYSE is not in operation. Furthermore, any calculations regarding the utilization rate of our data would also be slightly misconstrued.
