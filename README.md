@@ -112,12 +112,12 @@ _Credit & Contributors: ballen614, Ozkazanc1991, 2Hail, and sharmasonu2081._
 * 2021_US President Election.ipynb
 * 2022_Russian_Invasion_Ukraine.ipynb
 * Gaza Terrorist Attack on Israel.ipynb
-* Project-1 PDF.pdf
-* README.md
-* nasdaq_data_analysis_brandon.ipynb
+* Project-1 PDF.pdf - Our final presentation slides. 
+* README.md - This file.
+* nasdaq_data_analysis_brandon.ipynb - Brandon's keyword analysis of the NYT and NDQ data.
 * nasdaq_data_analysis_ryan.ipynb
-* nyt_keyword_analysis.ipynb
-* pull_nyt_headline_data.ipynb
+* nyt_keyword_analysis.ipynb - This was an exploratory jupyter notebook and did not overall contribute to the final report.
+* pull_nyt_headline_data.ipynb - This code was used to pull and build the "us_economy_data" csv files in the /data folder.
 
 
 
