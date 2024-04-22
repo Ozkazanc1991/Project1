@@ -106,6 +106,18 @@ _Tools Used: Jupyter Notebook (IPython)._
 
 _Credit & Contributors: ballen614, Ozkazanc1991, 2Hail, and sharmasonu2081._
 
+# Files
+* 2019_US_Terrifes On China.ipynb
+* 2020_Covid Impact.ipynb
+* 2021_US President Election.ipynb
+* 2022_Russian_Invasion_Ukraine.ipynb
+* Gaza Terrorist Attack on Israel.ipynb
+* Project-1 PDF.pdf
+* README.md
+* nasdaq_data_analysis_brandon.ipynb
+* nasdaq_data_analysis_ryan.ipynb
+* nyt_keyword_analysis.ipynb
+* pull_nyt_headline_data.ipynb
 
 
 
